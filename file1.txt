@@ -2,3 +2,4 @@ welcome
 to arubatraining
 “new feature”
 “new feature”
+“new feature”
